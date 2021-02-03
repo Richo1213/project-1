@@ -1,0 +1,23 @@
+markers = [
+    {
+      "name": "Royal Ontario Museum",
+      "url": "https://en.wikipedia.org/wiki/Royal_Ontario_Museum",
+      "lat": 43.667679,
+      "lng": -79.394809
+    },
+    {
+      "name": "Casa Loma",
+      "url": "https://en.wikipedia.org/wiki/Casa_Loma",
+      "lat": 43.6781,
+      "lng": -79.4095
+    },
+    {
+      "name": "CN Tower",
+      "url": "https://en.wikipedia.org/wiki/CN_Tower",
+      "lat":  43.642567,
+      "lng":  -79.387054
+    }
+ ];
+
+
+

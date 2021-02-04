@@ -1,0 +1,285 @@
+markers = [
+    {
+      "name": "Royal Ontario Museum",
+      "url": "https://en.wikipedia.org/wiki/Royal_Ontario_Museum",
+      "lat": 43.667679,
+      "lng": -79.394809
+    },
+    {
+      "name": "Casa Loma",
+      "url": "https://en.wikipedia.org/wiki/Casa_Loma",
+      "lat": 43.6781,
+      "lng": -79.4095
+    },
+    {
+      "name": "Musée d'art contemporain de Baie-Saint-Paul",
+      "url": "https://www.macbsp.com",
+      "lat":  47.439892,
+      "lng": -70.506545
+    },
+    {
+      "name": "Walter Phillips Gallery",
+      "url": "https://www.banffcentre.ca/walter-phillips-gallery",
+      "lat": 51.1717,
+      "lng": -115.5611
+    },
+    {
+      "name": "MacLaren Art Centre",
+      "url": "https://maclarenart.com",
+      "lat":  44.39010,
+      "lng":  -79.68502
+    },
+    {
+      "name": "Peel Art Gallery, Museum and Archives",
+      "url": "pama.peelregion.ca",
+      "lat":  43.68516,
+      "lng":  -79.75712
+    },
+    {
+      "name": "Art Gallery of Burlington",
+      "url": "https://artgalleryofburlington.com/",
+      "lat":  43.1915,
+      "lng":  -79.4802
+    },
+    {
+      "name": "The Glenbow Museum",
+      "url": "https://www.glenbow.org",
+      "lat":  51.24192,
+      "lng":  -114.34008
+    },
+    {
+      "name": "Art Gallery of Alberta",
+      "url": "youraga.ca",
+      "lat":  53.54491,
+      "lng":  -113.48869
+    },
+    {
+      "name": "Art Gallery of Nova Scotia",
+      "url": "artgalleryofnovascotia.ca",
+      "lat":  44.385283,
+      "lng":  -63.342154
+    },
+    {
+      "name": "Art Gallery of Hamilton",
+      "url": "https://artgalleryofhamilton.com",
+      "lat":  43.2575,
+      "lng":  -79.872222
+    },
+    {
+      "name": "McMaster Museum of Art",
+      "url": "https://museum.mcmaster.ca",
+      "lat":  43.26266,
+      "lng":  -79.91803
+    },
+    {
+      "name": "Southern Alberta Art Gallery",
+      "url": "https://www.saag.ca",
+      "lat":  49.69606,
+      "lng":  -112.83846
+    },
+    {
+      "name": "Agnes Etherington Art Centre",
+      "url": "https://agnes.queensu.ca",
+      "lat":  44.13314,
+      "lng":  -76.29465
+    },
+    {
+      "name": "Art Gallery of Mississauga",
+      "url": "https://www.artgalleryofmississauga.com",
+      "lat":  43.588327,
+      "lng":  -79.643631
+    },
+    {
+      "name": "Musée d'art contemporain de Montréal",
+      "url": "https://macm.org",
+      "lat": 45.5075,
+      "lng": -79.643631
+    },
+    {
+      "name": "RiverBrink Art Museum",
+      "url": "https://riverbrink.org",
+      "lat":  43.1703,
+      "lng":  -79.0570
+    },
+    {
+      "name": "The Robert McLaughlin Gallery",
+      "url": "https://www.rmg.on.ca",
+      "lat":  43.895086,
+      "lng":  -78.865911
+    },
+    {
+      "name": "National Gallery of Canada",
+      "url": "https://www.gallery.ca",
+      "lat": 45.2546,
+      "lng": -75.4154
+    },
+    {
+      "name": "Ottawa Art Gallery",
+      "url": "https://www.oaggao.ca",
+      "lat":  45.4259805,
+      "lng":  -75.6883851
+    },
+    {
+      "name": "Musée national des beaux-arts du Québec",
+      "url": "https://www.mnbaq.org/en",
+      "lat":  46.4756,
+      "lng":  -71.1329
+    },
+    {
+      "name": "MacKenzie Art Gallery",
+      "url": "https://mackenzie.art",
+      "lat":  50.2530,
+      "lng":  -104.370
+    },
+    {
+      "name": "New Brunswick Museum",
+      "url": "https://www.nbm-mnb.ca",
+      "lat":  45.2729,
+      "lng":  -66.0651
+    },
+    {
+      "name": "Art Gallery of Algoma",
+      "url": "https://https://www.artgalleryofalgoma.com/",
+      "lat":  46.3026,
+      "lng":  -84.1952
+    },
+    {
+      "name": "The Rooms",
+      "url": "https://www.therooms.ca",
+      "lat":  47.566236,
+      "lng":  -52.711839
+    },
+    {
+      "name": "Gallery Stratford",
+      "url": "https://www.gallerystratford.on.ca",
+      "lat":  43.37583,
+      "lng":  -80.96351
+    },
+    {
+      "name": "Art Gallery of Ontario",
+      "url": "https://www.ago.ca",
+      "lat":  43.654088,
+      "lng":  -79.39252
+    },
+    {
+      "name": "Design Exchange",
+      "url": "https://dx.org",
+      "lat": 43.64774,
+      "lng": -79.38011
+    },
+    {
+      "name": "Gallery Arcturus",
+      "url": "https://www.arcturus.ca",
+      "lat": 43.6600986,
+      "lng": -79.3780152
+    },
+    {
+      "name": "George R. Gardiner Museum of Ceramic Art",
+      "url": "https://www.gardinermuseum.on.ca",
+      "lat": 43.668163,
+      "lng": -79.393151
+    },
+    {
+      "name": "Museum of Contemporary Art",
+      "url": "https://museumofcontemporaryart.ca",
+      "lat": 43.6545,
+      "lng": -79.4451
+    },
+    {
+      "name": "Ryerson Image Centre",
+      "url": "https://www.ryerson.ca/ric",
+      "lat": 43.657889,
+      "lng": -79.379367
+    },
+    {
+      "name": "Thunder Bay Art Gallery",
+      "url": "https://theag.ca/",
+      "lat": 48.4051,
+      "lng": -89.2660
+    },
+    {
+      "name": "Emily Carr House",
+      "url": "https://carrhouse.ca",
+      "lat": 48.4138,
+      "lng": -123.37
+    },
+    {
+      "name": "Morris and Helen Belkin Art Gallery",
+      "url": "https://www.belkin.ubc.ca",
+      "lat": 49.26816,
+      "lng": -123.25623
+    },
+    {
+      "name": "Vancouver Art Gallery",
+      "url": "https://vanartgallery.bc.ca",
+      "lat": 49.282875,
+      "lng": -123.120464
+    },
+    {
+      "name": "McMichael Canadian Art Collection",
+      "url": "https://mcmichael.com",
+      "lat": 43.840776,
+      "lng": -79.625205
+    },
+    {
+      "name": "Art Gallery of Greater Victoria",
+      "url": "https://aggv.ca",
+      "lat": 48.4219,
+      "lng": -123.3476
+    },
+    {
+      "name": "UVic Legacy Art Galleries",
+      "url": "http://legacy.uvic.ca",
+      "lat": 48.2536,
+      "lng": -123.2158
+    },
+    {
+      "name": "Canadian Clay and Glass Gallery",
+      "url": "https://www.theclayandglass.ca",
+      "lat": 43.465007,
+      "lng": -80.526097
+    },
+    {
+      "name": "Yukon Arts Centre",
+      "url": "https://www.yukonartscentre.com",
+      "lat": 60.7500,
+      "lng": -135.09454
+    },
+    {
+      "name": "Art Gallery of Windsor",
+      "url": "https://www.agw.ca",
+      "lat": 42.3185,
+      "lng": -83.0444
+    },
+    {
+      "name": "Gallery 1C03",
+      "url": "https://https://www.uwinnipeg.ca/art-gallery/",
+      "lat": 49.892222,
+      "lng": -97.153056
+    },
+    {
+      "name": "The University of Manitoba’s School of Art Gallery",
+      "url": "https://umanitoba.ca/schools/art/gallery/",
+      "lat": 49.8099,
+      "lng": -97.1345
+    },
+    {
+      "name": "Manitoba Crafts Museum and Library",
+      "url": "https://www.c2centreforcraft.ca",
+      "lat": 49.896991,
+      "lng": -97.145485
+    },
+    {
+      "name": "Pavilion Gallery Museum",
+      "url": "https://https://www.assiniboinepark.ca/park-landing/explore/pavilion-art-in-the-park/pavilion-gallery-museum",
+      "lat": 49.5220,
+      "lng": -97.1349
+    },    
+    {
+      "name": "Winnipeg Art Gallery",
+      "url": "https://wag.ca",
+      "lat": 49.5322,
+      "lng": -97.0902
+    },
+
+ ];

@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
+    <script type='text/javascript' src='http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js'></script>
+
     <link rel="stylesheet" href="Assets/style.css">
     <title>The Art Thief</title>
 </head>
@@ -26,10 +30,8 @@
           
         <div class="borders">
             <br>
-            <br><br><br><br>
-            The Map goes here.
+            <div id="map" style="width: 400px; height: 250px;; border: 1px solid #AAA;"></div>
             <br> 
-            <br><br><br><br>
         </div>
                 
                 
@@ -41,5 +43,9 @@
             </div>
             <p><i>&#169;Delta Team, 2021</i></p>
         </div> 
+
+        <script type='text/javascript' src='Assets/list.json'></script>
+        <script type='text/javascript' src='Assets/artmap.js'></script>
+
 </body>
 </html>

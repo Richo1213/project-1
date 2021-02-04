@@ -12,16 +12,25 @@
         <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
         <script type='text/javascript' src='http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js'></script>
      </head>
-   
-     <body>
-        <h1>ART GALLERIES NEAR YOU!!</h1>
-        
-        <p>These are the art galleries near you!!
-        
-      <div id="map" style="width: 600px; height: 400px; border: 1px solid #AAA;"></div>
+     <style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		#map {
+			width: 600px;
+			height: 400px;
+		}
+	</style>
+
+	<style>body { padding: 0; margin: 0; } #map { height: 100%; width: 100vw; }</style>
+</head>
+<body>
+
+<div id="map"></div>
       
    
-        <script type='text/javascript' src='maps/location.json'></script>
+        <script type='text/javascript' src='maps/list.json'></script>
         <script type='text/javascript' src='maps/artmap.js'></script>
 </body>
 </html>

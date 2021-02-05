@@ -19,7 +19,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="app.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <title>The Art Thief</title>
 </head>
 <body>
@@ -35,13 +35,13 @@
             <button onClick="doSearch(event)" class="btn btn-warning">Search Artwork!</button>
             <button onClick='showFav(event)' class="saveBtn btn-warning"><i class="far fa-star"></i>show</button>
         </form>
-        <div id="giffyList"></div>
-        <div id="selCard" class='d-none'></div>
-        <div id = 'favList' class="d-none"></div>
+
         <div class="borders">
         <br>
         <br><br>
-        
+        <div id="giffyList"></div>
+        <div id="selCard" class='d-none'></div>
+        <div id = 'favList' class="d-none"></div>
         <br><br>
         <br>
         </div>
@@ -226,7 +226,7 @@ var queryString = $.param({
     title: search,
     classification: "Paintings",
     size: '100'
-});
+})
 
 $.getJSON(apiEndpointBaseURL + "?" + queryString, function(data) {
    console.log(data)
@@ -247,7 +247,7 @@ $.getJSON(apiEndpointBaseURL + "?" + queryString, function(data) {
             <a href='#' onClick = 'showCard(event, ${k})'><img src='${imgUrl}'+'?height=150&width=150' class="card-img-top" alt="No Img">
             </div><a>
          `)
-    });}
+      });}
 });}
     document.querySelector('#giffyList').style = "border: 3px solid black"
     document.querySelector('#selCard').style = "border: 3px solid black"

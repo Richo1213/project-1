@@ -24,7 +24,7 @@
 <script type='text/javascript' src='Assets/artmap.js'></script>    
 <title>The Art Thief</title>
 </head>
-<body>
+<body id='bod'>
     <div class="containter">
         <div class="header" class = "img" class="borders">
             <div>
@@ -82,16 +82,19 @@ function removeFav(event, key) {
     event.preventDefault()
     console.log(key)
     localStorage.removeItem(key)
+    window.location.reload();
+    return false;
     
 
 }
 function showFav(event){
+    $('#favList').html('')
     $('#favList').removeClass('d-none')
     $('#selCard').addClass('d-none')
     $('#giffyList').addClass('d-none');
     event.preventDefault()
     thisarr = []
-    $('#favList').html=''
+    
     for(var key in localStorage){
              thisarr.push(key)}
     for(i=0; i<localStorage.length;i++){
@@ -157,6 +160,7 @@ function saveThis(event){
 function showCard(event, indexPos){
             artCard = artArr[indexPos]
             event.preventDefault()
+            $('#selCard').addClass('d-none')
             $('#giffyList').addClass('d-none')
             var imgTitle = artCard.title
             var imgUrl = artCard.primaryimageurl
@@ -248,6 +252,7 @@ $.getJSON(apiEndpointBaseURL + "?" + queryString, function(data) {
     document.querySelector('#giffyList').style = "border: 3px solid black"
     document.querySelector('#selCard').style = "border: 3px solid black"
     document.querySelector('#favList').style = "border: 3px solid black"
+    $('#bod').css('background', 'blue')
 </script>
     </body>
 </html>

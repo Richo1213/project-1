@@ -92,8 +92,8 @@ markers = [
     {
       "name": "Musée d'art contemporain de Montréal",
       "url": "https://macm.org",
-      "lat": 45.5075,
-      "lng": -79.643631
+      "lat": 45.507505,
+      "lng": -73.565874
     },
     {
       "name": "RiverBrink Art Museum",

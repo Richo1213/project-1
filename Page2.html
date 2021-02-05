@@ -42,7 +42,7 @@
             <div class="borders col-md-auto ms-auto d-flex justify-content-center">
             <div id="giffyList"></div>
             <div id="selCard" class='d-none'></div>
-            <div id = 'favList' class="d-none"></div>
+            <div id = 'favList' ></div>
             
             </div>
         </div>   
@@ -82,6 +82,8 @@ function removeFav(event, key) {
     event.preventDefault()
     console.log(key)
     localStorage.removeItem(key)
+    window.location.reload();
+    return false;
     
 
 }

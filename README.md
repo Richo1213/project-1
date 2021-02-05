@@ -1,4 +1,4 @@
-This is the repo for BCS - Team Delta Project One, due Feb 9, 2021.
+This is the repo for BCS - Team Delta Project One, due Feb 8, 2021.
 
 Submitted: February 2021, Michael O'Connor, WebDev Wannabe, 604 765-6061
 
@@ -7,3 +7,9 @@ Submitted: February 2021, Michael O'Connor, WebDev Wannabe, 604 765-6061
 
 02 Approach:
 JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK JACK √
+
+Daniel D - 6476809069
+
+This is Ben's entry!
+
+RICARDO!

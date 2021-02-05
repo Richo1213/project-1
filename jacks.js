@@ -181,6 +181,3 @@ $.getJSON(apiEndpointBaseURL + "?" + queryString, function(data) {
          `)
       });}
 });}
-    document.querySelector('#giffyList').style = "border: 3px solid black"
-    document.querySelector('#selCard').style = "border: 3px solid black"
-    document.querySelector('#favList').style = "border: 3px solid black"

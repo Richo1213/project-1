@@ -11,8 +11,8 @@ L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var myURL = jQuery( 'script[src$="artmap.js"]' ).attr( 'src' ).replace( 'artmap.js', '' )
 
 var myIcon = L.icon({
-  iconUrl: myURL + 'images/pin24.png',
-  iconRetinaUrl: myURL + 'images/pin48.png',
+  iconUrl: myURL + 'Assets/pin24.png',
+  iconRetinaUrl: myURL + 'Assets/pin48.png',
   iconSize: [29, 24],
   iconAnchor: [9, 21],
   popupAnchor: [0, -14]

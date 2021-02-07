@@ -2,11 +2,34 @@ body {
     background-color: rgb(6, 21, 105);
     color: rgb(233, 211, 16);
     }
+#bod{
+  background-color: rgb(6, 21, 105);
+}
+
+#about{
+  color: rgb(233, 211, 16);
+  font-size: 17px;
+
+}
+#artBtn{
+  font-size: 25px;
+  border-radius:20 ;
+  background-color:rgb(233, 211, 16) ;
+  color: black;
+  justify-content: center;
+}
+/* #map{
+  padding: 10px;
+  margin: 20px;
+  height: 350px;
+  contain: size;
+  background-repeat: none;
+} */
+  /* style = width: 400px; height: 250px;; border: 1px solid #AAA;" */
+
     
     
     .borders {
-        border-style: solid;
-        border-color: green;
         background-color:rgb(6, 21, 105);
     }
     
@@ -16,7 +39,6 @@ body {
         height: 200px;
         background-repeat: no-repeat;
         background-size: contain;
-        border: 1px solid red;
         font-size: 40px;
         padding-top: 60px;
         padding-left: 20px;
@@ -71,8 +93,8 @@ body {
       }
       
       .navbar a.active {
-        background-color: #4CAF50;
-        color: white;
+        background-color:rgb(233, 211, 16);
+        color: black;
       }
       
       .main {

@@ -8,11 +8,11 @@ This is the repo for Team Delta - Project One due February 8, 2021.
 Submitted: February 8, 2021
             Jack Murphy, Lead Art API Developer
             Benoit Lacroque, Lead Map API and Geolocation Developer
-            Ricardo Diaz, Project
+            Ricardo Diaz, Project Management, Testing
             Daniel Digorgio, Lead, Agile Testing, 647 680-9069
-            Michael O'Connor, WebDev Wannabe, 604 765-6061
+            Michael O'Connor, WebDev Wannabe, Testing, Project Management and Documentation, 604 765-6061
 
-# 01 Goal: The goal is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Here is a link to the Github folder https://github.com/Richo1213/project-1 and a link to the deployed website  https://github.com/Richo1213/project-1 .
+# 01 Goal: The goal is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Here is a link to the Github folder https://github.com/Richo1213/project-1 and a link to the deployed website  https://richo1213.github.io/project-1/index.html.
 
 # 02 Approach:
 

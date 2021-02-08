@@ -94,7 +94,7 @@ The following items should be considered for future enhancements, time and budge
 # 06 Current Renderings:
 
 
-![alt text](Assets/Images/p1pic1.png)
-![alt text](Assets/Images/p1pic2.png)
+![alt text](Assets/images/p1pic1.png)
+![alt text](Assets/images/p1pic2.png)
 
 

@@ -18,14 +18,6 @@ body {
   color: black;
   justify-content: center;
 }
-/* #map{
-  padding: 10px;
-  margin: 20px;
-  height: 350px;
-  contain: size;
-  background-repeat: none;
-} */
-  /* style = width: 400px; height: 250px;; border: 1px solid #AAA;" */
 
     
     
@@ -45,8 +37,7 @@ body {
     }
     
     #Logo {
-        /* width: 100%; */
-        /* height: 200px; */
+
         background-repeat: no-repeat;
         background-size: contain;
     }

@@ -36,9 +36,9 @@ Submitted: February 8, 2021
 
             [X] The app should have a polished UI.
 
-            [ ] The app should have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
+            [x] The app should have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
 
-            [ ] There should be a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
+            [x] There should be a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
     We allocated the work to those who best could deliver on elements of the project and documented a roadmap for the project and they set out to build the project element as a proof of concept.  We used the KANBAN model for managing the project and met on weekends and during the class time to advance the project. SEE THE KANBAN https://github.com/Richo1213/project-1/projects/1 to follow the flow of the work effort. At all times we had the scope limitations and timelines in mind to ensire success.  On the Friday before delivery, we had the final working prototype that would undergo user acceptance testing over the weekend.  We tried to work on branches, but sometimes, veered away from that using good communication among members.
 
@@ -47,27 +47,27 @@ Submitted: February 8, 2021
 
 The presentation on Monday February 8, 2021 should address the following: 
 
-            [ ] Elevator pitch: a one minute description of your application
+            [x] Elevator pitch: a one minute description of your application
 
-            [ ] Concept: What is your user story? What was your motivation for development?
+            [x] Concept: What is your user story? What was your motivation for development?
 
-            [ ] Process: What were the technologies used? How were tasks and roles broken down and assigned? What challenges did you encounter? What were your successes?
+            [x] Process: What were the technologies used? How were tasks and roles broken down and assigned? What challenges did you encounter? What were your successes?
 
-            [ ] Demo: Show your stuff!
+            [x] Demo: Show your stuff!
 
-            [ ] Directions for Future Development
+            [x] Directions for Future Development
 
-            [ ] Links to the deployed application and the GitHub repository
+            [x] Links to the deployed application and the GitHub repository
 
 # 03 Testing and Quality Control:
 
     Testing included:
 
-        [ ] Agile Component Testing, first by developer and then by independent team member;
-        [ ] Agile Component Testing, first by developer and then by independent team member;
-        [ ] Integrated Testing, down by all team members on the fly as integration was underway, then on weekend;
-        [ ] Regression testing of key functionality once final changes made;
-        [ ] User Acceptance testing.
+        [x] Agile Component Testing, first by developer and then by independent team member;
+        [x] Agile Component Testing, first by developer and then by independent team member;
+        [x] Integrated Testing, down by all team members on the fly as integration was underway, then on weekend;
+        [x] Regression testing of key functionality once final changes made;
+        [x] User Acceptance testing.
 
 # 04 Lessons Learned:
 
@@ -93,70 +93,8 @@ The following items should be considered for future enhancements, time and budge
 
 # 06 Current Renderings:
 
-See Current Rendering at the time of writing in the Assignment04 Repo. 
-![alt text](Assets/Images/TBD)
+
+![alt text](Assets/Images/p1pic1.png)
+![alt text](Assets/Images/p1pic2.png)
 
 
-
-==========================================================================
-NOTE GRADING CRITERIA
-==========================================================================
-This project is graded based on the following criteria:
-
-### Technical Acceptance Criteria: 25%
-
-            * Satisfies the following code requirements:
-
-                * Application uses at least two server-side APIs.
-
-                * Application uses client-side storage to store persistent data.
-
-                * Application doesn't use JS alerts, prompts, or confirms (uses modals instead).
-
-                * Application uses a CSS framework other than Bootstrap.
-
-                * Application is interactive (accepts and responds to user input)
-
-            ### Concept 10%
-
-            * Application should be a unique and novel idea.
-
-            * Your group should clearly and concisely articulate your project idea.
-
-            ### Deployment: 20%
-
-            * Application deployed at live URL and loads with no errors.
-
-            * Application GitHub URL submitted.
-
-            ### Repository Quality: 10%
-
-            * Repository has a unique name.
-
-            * Repository follows best practices for file structure and naming conventions.
-
-            * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-            * Repository contains multiple descriptive commit messages.
-
-            * Repository contains a quality README file with description, screenshot, and link to deployed application.
-
-            ### Application Quality: 15%
-
-            * Application user experience is intuitive and easy to navigate.
-
-            * Application user interface style is clean and polished.
-
-            * Application is responsive.
-
-            ### Presentation 10%
-
-            * Your group should present using Powerpoint or a similar presentation software.
-
-            * Every group member should speak during the presentation.
-
-            * Your presentation should follow the [Project Presentation Template](https://docs.google.com/presentation/d/1_u8TKy5zW5UlrVQVnyDEZ0unGI2tjQPDEpA0FNuBKAw/edit?usp=sharing).
-
-            ### Collaboration 10%
-
-            * There are no major disparities in the number of GitHub contributions between group members.

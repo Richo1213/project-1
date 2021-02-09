@@ -9,7 +9,7 @@ Submitted: February 8, 2021
             Jack Murphy, Lead Art API Developer
             Benoit Lacroque, Lead Map API and Geolocation Developer
             Ricardo Diaz, Project Management, Testing
-            Daniel Digorgio, Lead, Agile Testing, 647 680-9069
+            Daniel Digiorgio, Lead, Agile Testing, 647 680-9069
             Michael O'Connor, WebDev Wannabe, Testing, Project Management and Documentation, 604 765-6061
 
 # 01 Goal: Here is a link to the Github folder https://github.com/Richo1213/project-1 and a link to the deployed website  https://richo1213.github.io/project-1/index.html.
@@ -61,10 +61,10 @@ The presentation on Monday February 8, 2021 should address the following:
 
 # 03 Testing and Quality Control:
 
-    Testing included:
+    Testing included (see Testing Routine ![alt text](Assets/TestingRoutine.md)):
 
-        [x] Agile Component Testing, first by developer and then by independent team member;
-        [x] Agile Component Testing, first by developer and then by independent team member;
+        [x] Agile Component Testing - MAP API, first by developer and then by independent team member;
+        [x] Agile Component Testing - ART API, first by developer and then by independent team member;
         [x] Integrated Testing, down by all team members on the fly as integration was underway, then on weekend;
         [x] Regression testing of key functionality once final changes made;
         [x] User Acceptance testing.
@@ -89,6 +89,11 @@ The following items should be considered for future enhancements, time and budge
     3. Cross API search capabilities.
 
     4. Ability to send links to specific works of art.
+
+    5. More responsive map container.
+    
+    6. Add social media links.
+
 
 
 # 06 Current Renderings:
